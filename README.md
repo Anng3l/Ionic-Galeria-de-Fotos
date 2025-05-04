@@ -68,16 +68,3 @@ Asegúrate de declarar los siguientes permisos en el archivo `AndroidManifest.xm
 <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 ```
-
-> ⚠️ **Importante:** A partir de Android 13, algunos permisos pueden requerir también consentimiento en tiempo de ejecución.
-
----
-
-## 📦 Requisitos del Proyecto
-
-- [Node.js](https://nodejs.org/)
-- [Ionic CLI](https://ionicframework.com/docs/cli)
-- [Capacitor](https://capacitorjs.com/)
-- [Android Studio](https://developer.android.com/studio)
-
----
